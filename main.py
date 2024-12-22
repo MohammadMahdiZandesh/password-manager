@@ -3,7 +3,7 @@ import datetime
 import random
 
 
-   
+    
 def load():
     with open("form.json") as infile:
         return json.load(infile)
