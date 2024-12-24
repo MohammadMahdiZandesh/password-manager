@@ -1,6 +1,8 @@
 Password Manager
-A simple tool to manage and securely store login credentials (usernames and passwords) for websites and applications. This project is built using Python and the Tkinter library, and stores your data locally in a JSON file.
+There is a link to the Trello Kanban board for this project, which demonstrates the management of tasks and project progress in an organized manner.
+https://trello.com/invite/b/676b23a7c3b817efcf2af151/ATTIaf507e82aed6a5c7946bb22bc9d9f9552DC39368/githhub-project
 
+A simple tool to manage and securely store login credentials (usernames and passwords) for websites and applications. This project is built using Python and the Tkinter library, and stores your data locally in a JSON file.
 
 Features
   •	Graphical User Interface (GUI):
